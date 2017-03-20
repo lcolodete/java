@@ -2,7 +2,7 @@
 /**
  * Singleton thread-safe with Double-Checked Locking
  * 
- * @author ur5g
+ * @author lcolodete@gmail.com
  *
  */
 public class VisitorTicketTracker {
