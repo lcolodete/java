@@ -1,1 +1,1 @@
-# This repository contains useful Java code samples, design patterns and best practices.
+This repository contains useful Java code samples, design patterns and best practices.
