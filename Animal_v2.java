@@ -10,9 +10,6 @@
  * 3) Do not include setter methods
  * 4) Guarantee that any mutable object references will not be modified
  * 5) Prevent methods from being overridden.
- * 
- * @author lcolodete@gmail.com
- *
  */
 public final class Animal_v2 {
 
