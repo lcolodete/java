@@ -1,9 +1,6 @@
 
 /**
  * Singleton thread-safe with Double-Checked Locking
- * 
- * @author lcolodete@gmail.com
- *
  */
 public class VisitorTicketTracker {
 
